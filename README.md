@@ -8,9 +8,11 @@ Inside, you'll find:
 
 **-Media Mentions**
 
-**-Research Collection (pdf)**
+**-Research Collection**
 
 This archive is designed to inform, inspire, and connect professionals and researchers navigating the challenges of AI safety, AI red teaming and cybersecurity data science. 
 
-###
+### Research Collection
+1. [Red Reaper](Research_Collection/red_reaper/red_reaper.md "View the Red Reaper project"): Original blog, RSA Video and RSA deck.
+
 
