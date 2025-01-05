@@ -4,7 +4,8 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 ![](research_collection/images/repo.png)
 
 
-### Research Collection
+# Research Collection
+
 - **Red Reaper:** Building an AI espionage agent modelled after leaked APT capabilities.
 
     - **Original Blog:** [Red Reaper](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
@@ -13,6 +14,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
     - **Red Reaper v2 Extension:** [repo](https://github.com/AI-Voodoo/Red_Reaper_v2 "View an extension of the Red Reaper project")
 
-- **EyeSpy**
+- **EyeSpy:** Self-healing, polymorphic code is AI generated, compiled, reflected and error-corrected, all in memory and based on system state.
 
-    - **Original Paper:** [EyeSpy](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
+    - **Paper:** [EyeSpy](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf "View the EyeSpy project")
+    - **Video:** [PoC Video](https://www.hyas.com/eyespy-proof-of-concept-demo-video "View EyeSpy PoC Video")
