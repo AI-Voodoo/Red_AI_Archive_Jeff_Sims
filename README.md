@@ -5,6 +5,15 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 
 # Research Collection
+- **Decentralized Swarm Intelligence:** Early start to 2025 research: Multi-Agent Swarm: Building Evasive Malware for Windows
+
+    - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274116703746146304-zlWN?utm_source=share&utm_medium=member_desktop "View the early PoC research")
+
+    - **LinkedIn Post:** [Fine-Tuning Small LLMs (SLMs) for Swarm CoT]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7278478474330181632-25JZ?utm_source=share&utm_medium=member_desktop "View the early PoC research")
+
+    - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274573269305896961-L-KV?utm_source=share&utm_medium=member_desktop "View the early PoC research")
+
+    - **Swarm Operation (Video):** [Swarm agents (UI)]( https://youtu.be/mjZWrONCiKg?si=wLa9txjt6ohIJp21 "View the RSA talk Red Reaper project")
 
 - **Red Reaper:** Building an AI espionage agent modelled after leaked APT capabilities.
 
