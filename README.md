@@ -1,18 +1,16 @@
-# Red_AI_Archive_Jeff_Sims
-is a curated collection of my work in AI safety and red teaming, alongside notable contributions from others where my research has been featured or cited. This repository aggregates papers, projects, and media coverage to serve as both a portfolio and a resource for those exploring the frontiers of AI safety & Cybersecurity.
-Inside, you'll find:
+# Red AI Archive: Jeff Sims
+A curated collection of my work in AI safety, cybersecurity data science, and red teaming research, alongside peer contributions from academic and industry professionals where my research has been featured or cited. This repository aggregates papers, projects, and media coverage, serving as both a personal portfolio and a resource for those exploring the frontiers of AI safety, red teaming, and cybersecurity data science. 
 
-**-Original Research**
-
-**-Collaborative Contributions**
-
-**-Media Mentions**
-
-**-Research Collection**
-
-This archive is designed to inform, inspire, and connect professionals and researchers navigating the challenges of AI safety, AI red teaming and cybersecurity data science. 
 
 ### Research Collection
-1. [Red Reaper](Research_Collection/red_reaper/red_reaper.md "View the Red Reaper project"): Original blog, RSA Video and RSA deck.
+- **Red Reaper:** Building an AI espionage agent modelled after leaked APT capabilities.
 
+    - **Original Blog:** [Red Reaper](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
 
+    - **RSA Video:** [Talk](https://www.youtube.com/watch?v=hg2TqcklVg4&t=29s "View the RSA talk Red Reaper project")
+
+    - **Red Reaper v2 Extension:** [repo](https://github.com/AI-Voodoo/Red_Reaper_v2 "View an extension of the Red Reaper project")
+
+- **EyeSpy**
+
+    - **Original Paper:** [EyeSpy](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
