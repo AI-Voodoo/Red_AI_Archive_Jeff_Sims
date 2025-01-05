@@ -20,7 +20,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 - **A Survey on Offensive AI Within Cybersecurity:** ```Sahil Girhepuje, Aviral Verma, Gaurav Raina``` -- *"This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems."* (Research cited pertaining to section: 3.1.8 Autonomous Malware)
 
-    - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the EyeSpy project")
+    - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the paper")
 - **Red Reaper:** ```Authored``` -- *"Red Reaper Espionage AI autonomously uncovers key espionage data, from wire transfers and blackmail opportunities to sensitive mergers and confidential negotiations, showcasing autonomous capabilities in nefarious intelligence collections. The Red Reaper proof-of-concept (PoC), based on capabilities leaked in the I-Soon dump, serves as a powerful example of the potential AI-driven threats sophisticated adversaries are already harnessing or interested in developing."*
 
     - **Original Blog:** [Red Reaper](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
@@ -51,3 +51,14 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 - **#245 - Every Hacker Summer Camp AI Talk, AWS IAM Security Tools, Ransomware Tool Matrix:** ```tl;dr sec``` -- *"I was curious about all of the AI talks at Hacker Summer Camp this year. I decided to gather them all in one place, summarize their abstracts in 1 and 2-3 sentences, group them by category, and add supporting links (talk recordings, slides, papers, etc.) where possible. instead of spending hours scrolling through different conference websites, you can quickly get up to speed on the >60 talks in ~15 minutes."* (Research cited pertaining to section: Offensive AI Agents).
     - **Blog:** [#245 - Every Hacker Summer Camp AI Talk, AWS IAM Security Tools, Ransomware Tool Matrix](https://tldrsec.com/p/tldr-sec-245 "View the blog")
+
+- **The Red Queen's Gambit: Cybersecurity Challenges in the Age of AI:** ```Lindsay Thorburn``` -- *"Discover the dynamic intersection of cybersecurity and artificial intelligence (AI) in Lindsay Thorburn's captivating presentation, "The Red Queen's Gambit: Cybersecurity Challenges in the Age of AI." In this thought-provoking talk, Lindsay explores the ways in which AI is used to launch sophisticated cyberattacks and shares invaluable strategies for organizations to protect themselves from these evolving threats."* (Research cited pertaining to section:  Cognitive Threat Agents)
+
+    - **Video:** [The Red Queen's Gambit: Cybersecurity Challenges in the Age of AI]( https://www.youtube.com/watch?v=Z2GsZHCXc_c "View the video")
+
+- **General Purpose AI systems in the AI Act: trying to fit a square peg into a round hole, We Robot 2023:** ```Claire Boine, David Rolnick``` -- *"At different points in time, authors of the legal doctrine have questioned whether the law could properly regulate new technologies, since it is inherently slow and conservative."* (Research cited pertaining to section:  Societal level harms from GPAIS)
+
+    - **Paper:** [General Purpose AI systems in the AI Act: trying to fit a square peg into a round hole, We Robot 2023]( https://www.bu.edu/law/files/2023/09/General-Purpose-AI-systems-in-the-AI-Act.pdf "View the paper")
+
+- **BlackMamba GPT POC Malware In Action:** ```Spyderbat``` -- *"In Hyas’ blog, they were able to create a BlackMamba keylogger that would generate the keylogging code in memory and exfiltrate it over a trusted communication channel such as Microsoft Teams. This inspired us at Spyderbat to take our own stab at creating a version of BlackMamba. In our example, we wrote a program that attempts to steal SSH credentials and exfiltrate them via a Slack webhook. Not only that, but it also tries to move laterally across the network to steal credentials from other machines."* (Research cited pertaining to section:BlackMamba).
+    - **Blog:** [BlackMamba GPT POC Malware In Action]( https://www.spyderbat.com/blog/blackmamba-gpt-poc-malware-in-action "View the blog")
