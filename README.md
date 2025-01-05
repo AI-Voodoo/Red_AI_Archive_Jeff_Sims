@@ -5,7 +5,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 
 # Research Collection
-- **Decentralized Swarm Intelligence:** ```Authored``` -- *Multi-agent swarm tasked to collaborate and build evasive malware for Windows. This is the beginning of a deep dive into multi-agent swarm dynamics for advanced problem-solving, with an emphasis on decentralized orchestration as to evaluate the emergence of divergent behaviors which produce richer reasoning pathways (Early 2025 research).*
+- **Decentralized Swarm Intelligence:** ```Authored``` -- *"Multi-agent swarm tasked to collaborate and build evasive malware for Windows. This is the beginning of a deep dive into multi-agent swarm dynamics for advanced problem-solving, with an emphasis on decentralized orchestration as to evaluate the emergence of divergent behaviors which produce richer reasoning pathways (Early 2025 research)."*
 
     - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274116703746146304-zlWN?utm_source=share&utm_medium=member_desktop "View the early PoC research")
 
