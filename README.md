@@ -15,7 +15,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
     - **Swarm Operation (Video):** [Swarm agents (UI)]( https://youtu.be/mjZWrONCiKg?si=wLa9txjt6ohIJp21 "View the RSA talk Red Reaper project")
 
-- **HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity** ```Atlantic Council``` -- *"While most of this paper focuses on GAI systems as tools for human hackers, questions about autonomy, or the ability of GAI-based systems to string together multiple actions without human intervention, are also highly relevant when evaluating new offensive cyber risks that may emerge from AI."*(Research cited pertaining to section: Evasion of Defenses).
+- **HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity** ```Atlantic Council``` -- *"While most of this paper focuses on GAI systems as tools for human hackers, questions about autonomy, or the ability of GAI-based systems to string together multiple actions without human intervention, are also highly relevant when evaluating new offensive cyber risks that may emerge from AI."* (Research cited pertaining to section: Evasion of Defenses).
     - **Report:** [HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity](https://dfrlab.org/wp-content/uploads/sites/3/2024/02/csi-report-hacking-with-ai.pdf "View the report")
 
 - **A Survey on Offensive AI Within Cybersecurity:** ```Sahil Girhepuje, Aviral Verma, Gaurav Raina``` -- *"This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems."* (Research cited pertaining to section: 3.1.8 Autonomous Malware)
@@ -28,6 +28,9 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **RSA Video:** [Talk](https://www.youtube.com/watch?v=hg2TqcklVg4&t=29s "View the RSA talk Red Reaper project")
 
     - **Red Reaper v2 Extension:** [repo](https://github.com/AI-Voodoo/Red_Reaper_v2 "View an extension of the Red Reaper project")
+
+- **Artificial Intelligence, Cybersecurity and the Health Sector:** ```The U.S. Department of Health and Human Services (HHS)``` -- *" What is artificial intelligence? How does it work? What does it mean for cybersecurity, especially for healthcare? What can be done to remain secure, given AI-enhanced cyberthreats?"* (Research cited pertaining to section: BlackMamba).
+    - **Report:** [Artificial Intelligence, Cybersecurity and the Health Sector](https://www.hhs.gov/sites/default/files/ai-cybersecurity-health-sector-tlpclear.pdf "View the report")
 
 - **EyeSpy:** ```Authored``` -- *"A cognitive threat agent utilizes artificial intelligence to make informed decisions to inflict cyber damage and operates autonomously, adapting its capabilities on-the-fly to a system’s state. This malware isn’t just a program—it is an adaptive entity with evolving strategies, making it an ever-present, dynamic threat. A cognitive threat agent has the potential to completely revolutionize the landscape of cyber threats. It mimics the adaptability of biological viruses, constantly observing its environment and mutating to exploit beneficial circumstances. In short, it is an opportunistic predator. Such malware can also strategically choose its targets and decide when to lay dormant and how to strike to maximize its impact."*
 
