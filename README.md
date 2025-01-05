@@ -27,6 +27,10 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
     - **Paper:** [EyeSpy](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf "View the EyeSpy project")
     - **Video:** [PoC Video](https://www.hyas.com/eyespy-proof-of-concept-demo-video "View EyeSpy PoC Video")
+
+- **A Survey on Offensive AI Within Cybersecurity:** This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems ```(Research cited pertaining to section: 3.1.8 Autonomous Malware)```.
+
+    - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the EyeSpy project")
   
 - **BlackMamba: The First of its Kind** - AI generated, polymorphic code - keylogger PoC. This one broke the internet.
 
@@ -34,5 +38,5 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **Washington Post Coverage:** [article]( https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/ "View article")
     - **Dark Reading Coverage:** [article]( https://www.darkreading.com/endpoint-security/ai-blackmamba-keylogging-edr-security "View article")
 
-- **The Implications of Artificial Intelligence in Cybersecurity - Offense-Defense Balance:** Research cited, contributed to section: Polymorphic Malware and Evasion.
+- **The Implications of Artificial Intelligence in Cybersecurity - Offense-Defense Balance:** AI presents key opportunities within cybersecurity, but concerns remain regarding the ways malicious actors might also use the technology. In this study, the Institute  for Security and Technology (IST) seeks to paint a comprehensive picture of the state of play—cutting through vagaries and product marketing hype ```(Research cited pertaining to section: Polymorphic Malware and Evasion)```.
     - **Paper:** [The Implications of Artificial Intelligence in Cybersecurity](https://securityandtechnology.org/wp-content/uploads/2024/10/The-Implications-of-Artificial-Intelligence-in-Cybersecurity.pdf "View the paper")
