@@ -5,7 +5,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 
 # Research Collection
-- **Decentralized Swarm Intelligence:** Authored -- *Multi-Agent Swarm Tasked to Collaborate and Build Evasive Malware for Windows. This is the beginning of a deep dive into multi-agent swarm dynamics for advanced problem-solving, with an emphasis on decentralized orchestration as to evaluate the emergence of divergent behaviors which produce richer reasoning pathways (Early 2025 research).*
+- **Decentralized Swarm Intelligence:** Authored -- *Multi-agent swarm tasked to collaborate and build evasive malware for Windows. This is the beginning of a deep dive into multi-agent swarm dynamics for advanced problem-solving, with an emphasis on decentralized orchestration as to evaluate the emergence of divergent behaviors which produce richer reasoning pathways (Early 2025 research).*
 
     - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274116703746146304-zlWN?utm_source=share&utm_medium=member_desktop "View the early PoC research")
 
@@ -31,7 +31,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **Paper:** [EyeSpy](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf "View the EyeSpy project")
     - **Video:** [PoC Video](https://www.hyas.com/eyespy-proof-of-concept-demo-video "View EyeSpy PoC Video")
 
-- **Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking and Technological Innovation in Southeast Asia** United Nations Office on Drugs and Crime -- *The transnational organized crime threat landscape in Southeast Asia is evolving faster than in any previous point in history. This change has been marked by growth in the production and trafficking of synthetic drugs and cyber-enabled fraud, driven by highly sophisticated syndicates and complex networks of money launderers, human traffickers, and a growing number of other service providers and facilitators.*  
+- **Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking and Technological Innovation in Southeast Asia:** United Nations Office on Drugs and Crime -- *The transnational organized crime threat landscape in Southeast Asia is evolving faster than in any previous point in history. This change has been marked by growth in the production and trafficking of synthetic drugs and cyber-enabled fraud, driven by highly sophisticated syndicates and complex networks of money launderers, human traffickers, and a growing number of other service providers and facilitators.*  
 ```(Research cited pertaining to section: Emerging Threats)```.
     - **Report:** [Transnational Organized Crime and the Convergence of Cyber-Enabled Fraud, Underground Banking and Technological Innovation in Southeast Asia](https://www.unodc.org/roseap/uploads/documents/Publications/2024/TOC_Convergence_Report_2024.pdf "View the paper")
   
