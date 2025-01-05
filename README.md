@@ -14,7 +14,9 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274573269305896961-L-KV?utm_source=share&utm_medium=member_desktop "View the early PoC research")
 
     - **Swarm Operation (Video):** [Swarm agents (UI)]( https://youtu.be/mjZWrONCiKg?si=wLa9txjt6ohIJp21 "View the RSA talk Red Reaper project")
+- **A Survey on Offensive AI Within Cybersecurity:** This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems ```(Research cited pertaining to section: 3.1.8 Autonomous Malware)```.
 
+    - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the EyeSpy project")
 - **Red Reaper:** Building an AI espionage agent modelled after leaked APT capabilities.
 
     - **Original Blog:** [Red Reaper](https://www.cybermongol.ca/frontier-research/red-reaper-building-an-ai-espionage-agent "View the original blog Red Reaper project")
@@ -27,10 +29,6 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
     - **Paper:** [EyeSpy](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf "View the EyeSpy project")
     - **Video:** [PoC Video](https://www.hyas.com/eyespy-proof-of-concept-demo-video "View EyeSpy PoC Video")
-
-- **A Survey on Offensive AI Within Cybersecurity:** This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems ```(Research cited pertaining to section: 3.1.8 Autonomous Malware)```.
-
-    - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the EyeSpy project")
   
 - **BlackMamba: The First of its Kind** - AI generated, polymorphic code - keylogger PoC. This one broke the internet.
 
