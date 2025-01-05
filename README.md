@@ -14,6 +14,10 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274573269305896961-L-KV?utm_source=share&utm_medium=member_desktop "View the early PoC research")
 
     - **Swarm Operation (Video):** [Swarm agents (UI)]( https://youtu.be/mjZWrONCiKg?si=wLa9txjt6ohIJp21 "View the RSA talk Red Reaper project")
+
+- **HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity** ```Atlantic Council``` -- *"While most of this paper focuses on GAI systems as tools for human hackers, questions about autonomy, or the ability of GAI-based systems to string together multiple actions without human intervention, are also highly relevant when evaluating new offensive cyber risks that may emerge from AI."*(Research cited pertaining to section: Evasion of Defenses).
+    - **Report:** [HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity](https://dfrlab.org/wp-content/uploads/sites/3/2024/02/csi-report-hacking-with-ai.pdf "View the report")
+
 - **A Survey on Offensive AI Within Cybersecurity:** ```Sahil Girhepuje, Aviral Verma, Gaurav Raina``` -- *"This survey paper on offensive AI will comprehensively cover various aspects related to attacks against and using AI systems."* (Research cited pertaining to section: 3.1.8 Autonomous Malware)
 
     - **Paper:** [A Survey on Offensive AI Within Cybersecurity]( https://arxiv.org/pdf/2410.03566v1 "View the EyeSpy project")
@@ -40,4 +44,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
     - **Dark Reading Coverage:** [article]( https://www.darkreading.com/endpoint-security/ai-blackmamba-keylogging-edr-security "View article")
 
 - **The Implications of Artificial Intelligence in Cybersecurity Offense-Defense Balance:** ```The Institute for Security and Technolog``` -- *"AI presents key opportunities within cybersecurity, but concerns remain regarding the ways malicious actors might also use the technology. In this study, the Institute  for Security and Technology (IST) seeks to paint a comprehensive picture of the state of play—cutting through vagaries and product marketing hype."*(Research cited pertaining to section: Polymorphic Malware and Evasion).
-    - **Paper:** [The Implications of Artificial Intelligence in Cybersecurity](https://securityandtechnology.org/wp-content/uploads/2024/10/The-Implications-of-Artificial-Intelligence-in-Cybersecurity.pdf "View the paper")
+    - **Report:** [The Implications of Artificial Intelligence in Cybersecurity](https://securityandtechnology.org/wp-content/uploads/2024/10/The-Implications-of-Artificial-Intelligence-in-Cybersecurity.pdf "View the report")
+
+- **#245 - Every Hacker Summer Camp AI Talk, AWS IAM Security Tools, Ransomware Tool Matrix:** ```tl;dr sec``` -- *"I was curious about all of the AI talks at Hacker Summer Camp this year. I decided to gather them all in one place, summarize their abstracts in 1 and 2-3 sentences, group them by category, and add supporting links (talk recordings, slides, papers, etc.) where possible. instead of spending hours scrolling through different conference websites, you can quickly get up to speed on the >60 talks in ~15 minutes."* (Research cited pertaining to section: Offensive AI Agents).
+    - **Blog:** [#245 - Every Hacker Summer Camp AI Talk, AWS IAM Security Tools, Ransomware Tool Matrix](https://tldrsec.com/p/tldr-sec-245 "View the blog")
