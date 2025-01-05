@@ -5,7 +5,7 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 
 # Research Collection
-- **Decentralized Swarm Intelligence:** Multi-Agent Swarm: Building Evasive Malware for Windows (Early 2025 research).
+- **Decentralized Swarm Intelligence:** Multi-agent swarm building evasive malware for Windows (Early 2025 research).
 
     - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274116703746146304-zlWN?utm_source=share&utm_medium=member_desktop "View the early PoC research")
 
