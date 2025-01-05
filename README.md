@@ -27,9 +27,12 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
     - **Paper:** [EyeSpy](https://www.hyas.com/hubfs/HYAS_EyeSpy_Proof_of_Concept.pdf "View the EyeSpy project")
     - **Video:** [PoC Video](https://www.hyas.com/eyespy-proof-of-concept-demo-video "View EyeSpy PoC Video")
+  
 - **BlackMamba: The First of its Kind** - AI generated, polymorphic code - keylogger PoC. This one broke the internet.
 
     - **Paper:** [BlackMamba](https://www.hyas.com/hubfs/Downloadable%20Content/HYAS-AI-Augmented-Cyber-Attack-WP-1.1.pdf?utm_campaign=2023_Content&utm_medium=email&_hsmi=249035001&utm_content=249035001&utm_source=hs_automation "View the BlackMamba project")
     - **Washington Post Coverage:** [article]( https://www.washingtonpost.com/technology/2023/05/11/hacking-ai-cybersecurity-future/ "View article")
     - **Dark Reading Coverage:** [article]( https://www.darkreading.com/endpoint-security/ai-blackmamba-keylogging-edr-security "View article")
 
+- **The Implications of Artificial Intelligence in Cybersecurity - Offense-Defense Balance:** Research cited, contributed to section: Polymorphic Malware and Evasion.
+    - **Paper:** [The Implications of Artificial Intelligence in Cybersecurity](https://securityandtechnology.org/wp-content/uploads/2024/10/The-Implications-of-Artificial-Intelligence-in-Cybersecurity.pdf "View the paper")
