@@ -7,5 +7,10 @@ Inside, you'll find:
 **-Collaborative Contributions**
 
 **-Media Mentions**
+
+**-Research Collection (pdf)**
+
 This archive is designed to inform, inspire, and connect professionals and researchers navigating the challenges of AI safety, AI red teaming and cybersecurity data science. 
+
+###
 
