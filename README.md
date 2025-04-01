@@ -1,5 +1,5 @@
 # Offensive AI Archive: Jeff Sims
-A curated collection of my work in AI safety, cybersecurity data science, and red teaming research, alongside peer contributions from academic and industry professionals where my research has been featured or cited. This repository aggregates papers, projects, and media coverage, serving as both a personal portfolio and a resource for those exploring the frontiers of AI safety, red teaming, and cybersecurity data science. 
+A curated collection of my work in AI safety, agent work, cybersecurity data science, and red teaming research, alongside peer contributions from academic and industry professionals where my research has been featured or cited. This repository aggregates papers, projects, and media coverage, serving as both a personal portfolio and a resource for those exploring the frontiers of AI safety, red teaming, and cybersecurity data science. 
 
 ![](research_collection/images/repo-4.png)
 
