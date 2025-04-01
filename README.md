@@ -5,15 +5,10 @@ A curated collection of my work in AI safety, cybersecurity data science, and re
 
 
 # Research Collection
-- **Decentralized Swarm Intelligence:** ```Authored``` -- *"Multi-agent swarm tasked to collaborate and build evasive malware for Windows. This is the beginning of a deep dive into multi-agent swarm dynamics for advanced problem-solving, with an emphasis on decentralized orchestration as to evaluate the emergence of divergent behaviors which produce richer reasoning pathways."* (Early 2025 research)
-
-    - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274116703746146304-zlWN?utm_source=share&utm_medium=member_desktop "View the early PoC research")
-
-    - **LinkedIn Post:** [Fine-Tuning Small LLMs (SLMs) for Swarm CoT]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7278478474330181632-25JZ?utm_source=share&utm_medium=member_desktop "View the early PoC research")
-
-    - **LinkedIn Post:** [Decentralized Swarm Intelligence]( https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7274573269305896961-L-KV?utm_source=share&utm_medium=member_desktop "View the early PoC research")
-
-    - **Swarm Operation (Video):** [Swarm agents (UI)]( https://youtu.be/mjZWrONCiKg?si=wLa9txjt6ohIJp21 "View the RSA talk Red Reaper project")
+- **DarkWatch:** ```Authored``` -- *"🪬DarkWatch: AI-Driven Surveillance Agent PoC. Inspired by recent research from OpenAI on threat actor development of AI surveillance systems (“Peer Review”) and utilizing a U.S. politics, Twitter dataset, this PoC demonstrates how agents can autonomously build and analyze graph structures to target user groups defined as opposition to the agent’s operators."*
+    - **Talk Intro Video:** [Video](https://youtu.be/EmlQKWkOZ7o "View agent analyzing social graph")
+    - **Deck & Video of Talk:** [Deck & Video](https://www.linkedin.com/posts/jeff-sims-1337-revolution_darkwatch-slides-activity-7311384579964063747-wxEz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXi9O4BA2NN3cJm9dEu09oXysDvQaeEWbghttps://www.linkedin.com/posts/jeff-sims-1337-revolution_darkwatch-slides-activity-7311384579964063747-wxEz?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXi9O4BA2NN3cJm9dEu09oXysDvQaeEWbg "View Deck & Conference Talk")
+    - **Agent Video 2:** [Video](https://www.linkedin.com/posts/jeff-sims-1337-revolution_ai-informationsecurity-blueteam-activity-7308165048579837954-nXw6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACXi9O4BA2NN3cJm9dEu09oXysDvQaeEWbg "View agent intro")
 
 - **HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity** ```Atlantic Council``` -- *"While most of this paper focuses on GAI systems as tools for human hackers, questions about autonomy, or the ability of GAI-based systems to string together multiple actions without human intervention, are also highly relevant when evaluating new offensive cyber risks that may emerge from AI."* (Research cited pertaining to section: Evasion of Defenses).
     - **Report:** [HACKING WITH AI: The Use of Generative AI in Malicious Cyber Activity](https://dfrlab.org/wp-content/uploads/sites/3/2024/02/csi-report-hacking-with-ai.pdf "View the report")
